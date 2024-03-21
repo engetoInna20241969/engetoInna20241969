@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @engetoInna20241969
+- 👋 Hi, I’m @engeto Inna
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
